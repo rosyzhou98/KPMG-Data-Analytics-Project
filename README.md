@@ -14,5 +14,5 @@ The project includes 3 tasks. Here I'm showing the data preparation and data ana
 
 
 ## Key Takeaways:
- - We would like to target female customers who takes up 51% of purchases.
- - Customers work in finance and manufacturing are more likely to buy new bikes.
+ - We would like to target female customers who take up 51% of purchases.
+ - Customers work in finance and manufacturing industries are more likely to buy new bikes.
